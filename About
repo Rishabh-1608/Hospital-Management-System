@@ -1,0 +1,3 @@
+The code utilizes Tkinter widgets like labels, buttons, and entry fields for the user interface. It also establishes a connection to a MySQL database to store and manage data.
+
+To use this code, make sure you have Tkinter and MySQL installed on your system, and you should modify the database connection settings as per your requirements. You can upload this code to GitHub as part of your repository for a simple Hospital Management System project.
